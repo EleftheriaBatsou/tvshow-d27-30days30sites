@@ -1,0 +1,120 @@
+a:link {
+  color: #1f1f1f;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #B24900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3a9b00;
+  text-decoration: underline;
+}
+
+body {
+  background-color: white !important;
+  color: #1f1f1f !important;
+}
+
+ul li {
+  color: black !important;
+}
+
+li:hover {
+  color: black !important;
+}
+
+.nav-tabs {
+  color: black !important;
+}
+
+.oprah-img {
+  margin: auto;
+  display: block;
+  padding-top: 0px;
+  background-color: #fd34ac;
+}
+
+.after-oprah {
+  margin: 2.5rem auto;
+}
+
+.in3 {
+  color: white;
+  font-weight: bolder;
+  font-size: 16px;
+}
+.in3 h3 {
+  color: #47c0ed;
+  font-weight: 800;
+}
+.in3 h5 {
+  color: #47c0ed;
+}
+
+.quotes {
+  font-size: 1.5rem;
+  color: #fd34ac;
+  padding-left: 20px;
+  text-align: left;
+  font-weight: 500;
+  letter-spacing: 0.3rem;
+}
+
+.btnWhite {
+  background-color: white;
+  color: black !important;
+  border-radius: 50px !important;
+  font-weight: 600 !important;
+  border: white 2px solid !important;
+}
+
+.noSpace {
+  margin: auto;
+}
+.noSpace h3 {
+  color: #47c0ed;
+  font-weight: 700;
+}
+.noSpace p {
+  color: #fd34ac;
+}
+.noSpace .noSpaceImg {
+  height: 260px;
+  width: 90%;
+  margin: auto;
+}
+
+.prefooter {
+  text-align: center !important;
+  color: black;
+  background: #fd34ac;
+}
+
+a {
+  color: black;
+  font-weight: 600;
+  font-size: 14px !important;
+}
+
+.favicons {
+  height: 24px;
+  width: 24px;
+}
+
+#footer {
+  margin-top: 5px;
+  background-color: #47c0ed !important;
+  color: #fd34ac;
+}
+#footer h5 {
+  color: #fd34ac;
+}
+#footer a:hover {
+  color: black;
+}
+#footer a:visited {
+  color: #fd34ac;
+}
